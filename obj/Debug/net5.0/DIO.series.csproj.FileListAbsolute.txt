@@ -1,0 +1,16 @@
+F:\cursos\digital-innovation-one\DIO.series\obj\Debug\net5.0\DIO.series.csproj.AssemblyReference.cache
+F:\cursos\digital-innovation-one\DIO.series\obj\Debug\net5.0\DIO.series.GeneratedMSBuildEditorConfig.editorconfig
+F:\cursos\digital-innovation-one\DIO.series\obj\Debug\net5.0\DIO.series.AssemblyInfoInputs.cache
+F:\cursos\digital-innovation-one\DIO.series\obj\Debug\net5.0\DIO.series.AssemblyInfo.cs
+F:\cursos\digital-innovation-one\DIO.series\obj\Debug\net5.0\DIO.series.csproj.CoreCompileInputs.cache
+F:\cursos\digital-innovation-one\DIO.series\bin\Debug\net5.0\DIO.series.exe
+F:\cursos\digital-innovation-one\DIO.series\bin\Debug\net5.0\DIO.series.deps.json
+F:\cursos\digital-innovation-one\DIO.series\bin\Debug\net5.0\DIO.series.runtimeconfig.json
+F:\cursos\digital-innovation-one\DIO.series\bin\Debug\net5.0\DIO.series.runtimeconfig.dev.json
+F:\cursos\digital-innovation-one\DIO.series\bin\Debug\net5.0\DIO.series.dll
+F:\cursos\digital-innovation-one\DIO.series\bin\Debug\net5.0\ref\DIO.series.dll
+F:\cursos\digital-innovation-one\DIO.series\bin\Debug\net5.0\DIO.series.pdb
+F:\cursos\digital-innovation-one\DIO.series\obj\Debug\net5.0\DIO.series.dll
+F:\cursos\digital-innovation-one\DIO.series\obj\Debug\net5.0\ref\DIO.series.dll
+F:\cursos\digital-innovation-one\DIO.series\obj\Debug\net5.0\DIO.series.pdb
+F:\cursos\digital-innovation-one\DIO.series\obj\Debug\net5.0\DIO.series.genruntimeconfig.cache
